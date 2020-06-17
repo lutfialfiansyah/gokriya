@@ -1,0 +1,17 @@
+{
+  "debug": true,
+  "server": {
+    "address": ":9090"
+  },
+  "context":{
+    "timeout":30
+  },
+  "database": {
+      "host": "18.140.67.82",
+      "port": "8976",
+      "user": "test",
+      "pass": "kriyatest123",
+      "name": "kriya_test"
+  }
+
+}
